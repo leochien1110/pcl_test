@@ -22,3 +22,4 @@
     ```bash
     ./pcd_filter --pc_path ../../res/room_scan1.pcd
     ```
+    Field of View CropHull Filter , Horizontal: 40deg, Vertical: 20deg, Distance: 200m
