@@ -10,7 +10,7 @@
 #include <pcl/registration/icp.h>
 #include <pcl/filters/approximate_voxel_grid.h>
 #include <pcl/filters/crop_hull.h>
-#include <pcl/surface/concave_hull.h>
+#include <pcl/surface/convex_hull.h>
 
 #include <pcl/visualization/pcl_visualizer.h>
 
